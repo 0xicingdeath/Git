@@ -23,5 +23,4 @@ contract simpleCounter {
         require(msg.sender == owner);
         approvedAddress = _approvedAddress;
     }
-
 }
