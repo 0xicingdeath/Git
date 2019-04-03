@@ -1,12 +1,11 @@
 //Function 4
-// Array must be defined.
+// Semicolon required.
 
 function getNames() {
     var length = 0,
-        names = "",
-        array = ['John', 'Susan', 'Joe']
+        names = "";
 
-    array.forEach(function (name, i) {
+        ['John', 'Susan', 'Joe'].forEach(function (name, i) {
         length = i + 1
         names += name + ' '
     })
