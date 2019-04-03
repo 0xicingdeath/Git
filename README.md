@@ -1,3 +1,0 @@
-# GIT GIT GIT
-
-MASTER_1
