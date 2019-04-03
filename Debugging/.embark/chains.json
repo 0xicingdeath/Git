@@ -1,0 +1,22 @@
+{
+  "0x107dd940e2fcf0efdfc3d7c6591ceb29111de69cdb871104bc2e347bc367f1e4": {
+    "contracts": {
+      "0x06f60ca0ecbdf9c84e6656da9a79d6876dbfda058a781d2bbb6c90c01afade8c": {
+        "name": "SafeMath",
+        "address": "0xfC8b80c793e794E3c13D22542B295352478b548f"
+      },
+      "0x94456f0433ae099adab8606cb63321a4c07c3615f65db25254396357cccef28d": {
+        "name": "TokenLoanStorage",
+        "address": "0xBB59fB92FA6D5C2Fab3a8cA0a74fd77DC5590376"
+      },
+      "0xe7b93f623a2d9fba13626e384a018bdd2d78e8c0c67a63d773e6b2e4230d4504": {
+        "name": "TokenLoan",
+        "address": "0x945cC801116B7eD1F9C3fca9B18a5e515e6bE12f"
+      },
+      "0xed69a9b2fdeb9db603fc78bd1f898df69b7268e39e94545284e342d27d5fbd6e": {
+        "name": "Auction",
+        "address": "0xA1A7ecC7380A6a93A5414530a8EbC9e147C0dd6B"
+      }
+    }
+  }
+}

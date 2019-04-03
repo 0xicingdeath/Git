@@ -1,9 +1,10 @@
 // Function 1
+// "="" is not a boolean operator. 
 
 var integer = 1;
 var stringInteger = "1";
 
-if (stringInteger = integer) {
+if (stringInteger == integer) {
     console.log('True');
 } else {
     console.log("False");

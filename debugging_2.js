@@ -1,9 +1,10 @@
 //Function 2
-// if they are equal
+// "===" compares values of the same type ONLY.
+
 var string = "5";
 var integer = 5;
 
-if (string === integer) {
+if (string == integer) {
     console.log("true");
 } else {
     console.log("False");

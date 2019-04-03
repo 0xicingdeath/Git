@@ -1,10 +1,12 @@
 //Function 4
+// Array must be defined.
 
 function getNames() {
     var length = 0,
-        names = ""
+        names = "",
+        array = ['John', 'Susan', 'Joe']
 
-    ['John', 'Susan', 'Joe'].forEach(function (name, i) {
+    array.forEach(function (name, i) {
         length = i + 1
         names += name + ' '
     })
